@@ -17,7 +17,7 @@ const Gymnasium = () => {
         const newList = [...list, exercise]
         setList(newList)
     }
-    
+
     return (
         <div className='gymnasium-container'>
             <div className='exercises-container'>
