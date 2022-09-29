@@ -27,5 +27,6 @@
     .list-container{
         position: absolute;
         top: 0px;
+        /* max-resolution: sadd; */
     }
 }
