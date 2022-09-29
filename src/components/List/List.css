@@ -1,0 +1,50 @@
+img {
+    width: 70px;
+    border-radius: 50%;
+}
+.user-details{
+    display: flex;
+}
+.user-fitness{
+    display: flex;
+    justify-content: space-between;
+    background-color: gainsboro;
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.break-container{
+    margin-top: 50px;
+}
+.seconds{
+    display: flex;
+    background-color: gainsboro;
+    border-radius: 15px;
+}
+.seconds button{
+    border: none;
+}
+.seconds h3{
+    margin-right: 25px;
+    background-color:#82B6D9;
+    padding: 10px;
+    border-radius: 50%;
+}
+.exercise-details{
+    margin-top: 50px;
+}
+.exercise-time{
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 15px;
+}
+.break-time{
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 15px;
+}
+.activity-completed button{
+    background-color: #82B6D9;
+    padding: 0px 100px;
+    border-radius: 10px;
+}
