@@ -14,3 +14,18 @@
 .list-container{
     margin-right: 50px;
 }
+@media screen and  (max-width: 600px){
+    .exercises-container{
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 800px;
+    }
+    .gymnasium-container{
+        grid-template-columns: 1fr 1fr;
+        display: flex;
+        flex-direction: column;
+    }
+    .list-container{
+        position: absolute;
+        top: 0px;
+    }
+}
